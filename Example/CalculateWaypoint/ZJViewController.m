@@ -7,7 +7,7 @@
 //
 
 #import "ZJViewController.h"
-
+#import "CalculateWaypointManager.h"
 @interface ZJViewController ()
 
 @end
@@ -17,7 +17,7 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-	// Do any additional setup after loading the view, typically from a nib.
+
 }
 
 - (void)didReceiveMemoryWarning
